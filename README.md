@@ -3,10 +3,10 @@
 Pleased to receive your visit! Few information about me:
 
 🌱 I’m currently learning and working about **.Net**, **JavaScript** and their frameworks. Good proof of it are these projects:
-- My web profile: made with **Vue.js** and pure **CSS** : [MyWebsite](https://hugotechandtravel.netlify.app/) [MyRepository](../../../../profile).
+- My web profile: made with **Vue.js** and pure **CSS** : [MyWebsite](https://hugotechandtravel.netlify.app/) [MyRepository](https://github.com/hnlopez89/profile).
 - My first API based on **.Net** based on **Asp .Net**: [MyAPI](http://www.tasklisthnlopez.somee.com/swagger/index.html).
-- A single journal App: made with **React**, **CSS** and using **Firebase** on the backend: [JournalApp](../../../../JournalApp).
-- My first full stack project based on **Node.js**, **Vue.js**, **MySQL** and pure **CSS**:  [TempoVideo](https://www.youtube.com/watch?v=aOm7oJw7CuY) [TempoRepository](../../../../proyecto).
+- A single journal App: made with **React**, **CSS** and using **Firebase** on the backend: [JournalApp](https://github.com/hnlopez89/JournalApp).
+- My first full stack project based on **Node.js**, **Vue.js**, **MySQL** and pure **CSS**:  [TempoVideo](https://www.youtube.com/watch?v=aOm7oJw7CuY) [TempoRepository](https://github.com/hnlopez89/proyecto).
 
 📔 My first approach to the software development was through the Bootcamp "Hack a Boss" during the pandemia of COVID-19, where I learned the basis of **JavaScript**.
 
