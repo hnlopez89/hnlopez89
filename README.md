@@ -12,12 +12,12 @@ Pleased to receive your visit! Few information about me:
 
 👷 Then, time to work! My experiences till now:
 - **Junior Software Developer at TaskIt**:
-- Adapting and updating a Warehouse Management System (WMS) made with **.Net** to the client Needs.
-- Testing, documenting and puting in place the software itself on the warehouse facilities.
+  - Adapting and updating a Warehouse Management System (WMS) made with **.Net** to the client Needs.
+  - Testing, documenting and puting in place the software itself on the warehouse facilities.
 
 - **Junior Software Developer at 14Agency**:
-- Creating a gallery of WebComponents made with **JavaScript** according to the corporative style and behaviour of our client **Seat** and **CUPRA**.
-- Assisting on the execution of several sprints making the website of Movility Urban Solution by **Seat**, designed on **React.js**.
+  - Creating a gallery of WebComponents made with **JavaScript** according to the corporative style and behaviour of our client **Seat** and **CUPRA**.
+  - Assisting on the execution of several sprints making the website of Movility Urban Solution by **Seat**, designed on **React.js**.
 
 👯 I’m looking to collaborate on new challenges, let's work and keep building this story together!
 
