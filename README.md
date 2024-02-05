@@ -6,7 +6,7 @@ Pleased to receive your visit! Few information about me:
 - My web profile: made with **Vue.js** and pure **CSS** : [MyWebsite](https://hugotechandtravel.netlify.app/) [MyRepository](https://github.com/hnlopez89/profile).
 - My first API based on **.Net** and **Asp .Net**: [MyAPI](http://www.tasklisthnlopez.somee.com/swagger/index.html).
 - My first galery of webcomponents based on **JavaScript** : [MyGalery](https://6579bd86e060d5a153f4d657-vurpmlkosr.chromatic.com/).
-- A single journal App: made with **React**, **CSS** and using **Firebase** on the backend: [JournalApp](https://queridodiario.netlify.app/auth/login)  [Repository](https://github.com/hnlopez89/JournalApp).
+- A single journal App: made with **React**, **CSS** and using **Firebase** on the backend: [JournalApp](https://queridodiario.netlify.app)  [Repository](https://github.com/hnlopez89/JournalApp).
 - My first full stack project based on **Node.js**, **Vue.js**, **MySQL** and pure **CSS**:  [TempoVideo](https://www.youtube.com/watch?v=aOm7oJw7CuY) [TempoRepository](https://github.com/hnlopez89/proyecto).
 
 📔 My first approach to the software development was through the Bootcamp "Hack a Boss" during the pandemia of COVID-19, where I learned the basis of **JavaScript**.
